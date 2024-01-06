@@ -1,5 +1,5 @@
 ####################
-##### LER PELO README OU RAW #####
+##### LER PELO README RAW #####
 ####################
 
 Projeto de análise de dados para iniciantes.
