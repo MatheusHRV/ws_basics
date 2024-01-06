@@ -1,4 +1,4 @@
-# ws_basics
+>>>> LER ABRINDO PELO README <<<
 Projeto de análise de dados para iniciantes.
 
 Descrição: 
